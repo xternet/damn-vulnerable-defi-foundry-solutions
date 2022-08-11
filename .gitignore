@@ -1,0 +1,6 @@
+.vscode/
+.github/
+out/
+cache/
+node_modules/
+.env
